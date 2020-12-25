@@ -1,0 +1,17 @@
+Package: ru.rj.afsocial
+Name: AFSocial
+Depends: mobilesubstrate
+Conflicts: co.azozzalfiras.afsocial, co.azozzalfiras.azflibrary
+Replaces: sileot.afsocial 
+Architecture: iphoneos-arm
+Description: tweaks for your favourite social apps.
+Maintainer: 3xtc
+Author: ɛvɪɗɛηт
+Section: Tweaks
+Version: 2.6.7
+Filename: ./debs/com.3xtc.afsocial.deb
+Size: 3437526
+Installed-Size: 6500
+MD5sum: 65e5e0fb84f0b1cba9a1f8b2cb29645c
+SHA1: 3864928899eb63eb0f87a86ba4fa15270267a1a6
+SHA256: 93f78a12016870cec71c5081cae6d337e4f477c62010eb46121974230702ea92
