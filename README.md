@@ -1,3 +1,3 @@
-Made by stemgrade MLS.
+Made by stemgrade.
 
-Checkout my channel "stemgrade MLS"
+Checkout my channel "stemgrade"
