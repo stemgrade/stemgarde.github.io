@@ -1,15 +1,14 @@
 <package>
-	<id>com.AH4Ma.ATestTweak</id>
-	<name>A Test Tweak</name>
-	<version>1.2-1</version>
-	<compatibility>
-		<firmware>
-			<miniOS>10.0</miniOS>
-		</firmware>
-	</compatibility>
-	<dependencies>
+	<id>ru.rj.afsocial</id>
+	<name>AFSocial</name>
+	<version>2.6.7<</version>
+		<dependencies>
 		<package>mobilesubstrate</package>
 	</dependencies>
+      <Conflicts>
+		<package>co.azozzalfiras.afsocial, co.azozzalfiras.azflibrary</package>
+	</Conflicts>
+
 	<shortDescription>Download videos from Social Media!!</shortDescription>
 	<descriptionlist>
 		<description>Download videos from Social Media!!</description>
@@ -30,12 +29,7 @@
 			<image>cydia.jpg</image>
 		</screenshot>		
 	</screenshots>
-	<changelog>
-		<change>Second release</change>
-		<change>It has feature 1</change>
-		<change>It has feature 2</change>
-	</changelog>
-	<links>
+		<links>
 		<link>
 			<name>/r/jailbreak</name>
 			<url>https://www.reddit.com/r/ahmad4maylod</url>
