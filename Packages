@@ -26,7 +26,7 @@ Maintainer: stem grade
 Author: stem grade
 Section: Tweaks
 Version: 0.0.2
-Filename: ./debs/com.adguard.deb
+Filename: ./debs/adguard.deb
 Size: 81750
 MD5sum: 3dc719e39cb7ebc96ba047010612377e
 SHA1: cee4e20dce767a6228c086a7b639277a50607867
