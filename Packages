@@ -15,7 +15,6 @@ Installed-Size: 6500
 MD5sum: 65e5e0fb84f0b1cba9a1f8b2cb29645c
 SHA1: 3864928899eb63eb0f87a86ba4fa15270267a1a6
 SHA256: 93f78a12016870cec71c5081cae6d337e4f477c62010eb46121974230702ea92
-Depiction: https://stemgrade.github.io/stemgrade/depiction/?p=com.3xtc.afsocial
 
 Package: com.180.adguard
 Name: adguard
@@ -31,4 +30,3 @@ Size: 81750
 MD5sum: 3dc719e39cb7ebc96ba047010612377e
 SHA1: cee4e20dce767a6228c086a7b639277a50607867
 SHA256: 6361972513a2ff1a88d3dd3decb1c027b2e4387f8f27c54a77a414f6237858c3
-Depiction: https://stemgrade.github.io/stemgrade/depiction/?p=adguard.deb
