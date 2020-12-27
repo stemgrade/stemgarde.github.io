@@ -16,22 +16,3 @@ Size: 81750
 MD5sum: 3dc719e39cb7ebc96ba047010612377e
 SHA1: cee4e20dce767a6228c086a7b639277a50607867
 SHA256: 6361972513a2ff1a88d3dd3decb1c027b2e4387f8f27c54a77a414f6237858c3
-
-Package: com.stem.facebookdarkmode
-Name: Facebook darkmode
-Depends: mobilesubstrate firmware (>= 10)
-Architecture: iphoneos-arm
-Description: darkmode for Facebook
-Maintainer: stemgrade
-Author: stemgrade
-Section: Tweaks
-Version: 1.1
-Filename: ./debs/com.stem.facebookdarkmode.deb
-Size: 150510
-Icon: https://stemgrade.github.io/packages_info/screenshots/fbdarkmode1.png
-Homepage: https://twitter.com/StemGrade
-Sileodepiction: https://stemgrade.github.io/Sileo/Facebookdarkmode.json
-Depiction: https://stemgrade.github.io/packages_info/Facebookdarkmode/?p=info
-MD5sum: 256dbf7fa1f565c6cf7039fb2955da01
-SHA1: daca647ceed506864a1c9f7910b2ce3226b410ff
-SHA256: 69bb309bd1e753fe24121cd36db1dddf5a6f7569f1d3db5ed108b5b84f4f57a8
