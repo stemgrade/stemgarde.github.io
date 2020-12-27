@@ -27,11 +27,11 @@ Author: stemgrade
 Section: Tweaks
 Version: 1.1
 Filename: ./debs/com.stem.facebookdarkmode.deb
-Size: 150510
+Size: 64888
 Icon: https://stemgrade.github.io/packages_info/screenshots/fbdarkmode1.png
 Homepage: https://twitter.com/StemGrade
 Sileodepiction: https://stemgrade.github.io/Sileo/facebookdarkmode.json
 Depiction: https://stemgrade.github.io/packages_info/facebookdarkmode/?p=info
-MD5sum: 256dbf7fa1f565c6cf7039fb2955da01
-SHA1: daca647ceed506864a1c9f7910b2ce3226b410ff
-SHA256: 69bb309bd1e753fe24121cd36db1dddf5a6f7569f1d3db5ed108b5b84f4f57a8
+MD5sum: c5fdbdaf9037bb10e986410cbb31410a
+SHA1: bbcc628115c23c6a47e0fc3f1378d7a57a47698b
+SHA256: 168e715884717996f13b1096cb4ddc5f908aff344ad734af12f2b91c8c8d71a0
