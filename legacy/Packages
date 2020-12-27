@@ -1,0 +1,541 @@
+Package: com.xtm3x.airconditioning
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: xTheMaster3x
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./pkgfiles/com.xtm3x.airconditioning_1.0_iphoneos-arm.deb
+Size: 5898
+MD5sum: 1f0aa273267b2e53dfec9d99bd76c414
+SHA1: 428c39d00e5cfe9cfa0660701d77ad93628e81c1
+SHA256: 3353f2097d4d72d0152f052955b117c277b32c4366db330ce451e9444b1e0279
+Section: Tweaks
+Description: Color Navigation Bars based on icon color.
+Author: xTheMaster3x
+Depiction: http://repo.tm3dev.com/depics/ac.html
+Name: Adaptive Bar
+
+Package: com.xtm3x.airconditioning
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: xTheMaster3x
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./pkgfiles/com.xtm3x.airconditioning_1.1_iphoneos-arm.deb
+Size: 6856
+MD5sum: 37e49073742a7ccd98bdae825dcf6c3f
+SHA1: 2884ea60f72d84de2c6a10286f7ca22d7398a038
+SHA256: d73a2a7a87c2e3fe334f5c8b547abf450063485fc44a404264ef7ec4fe5a412d
+Section: Tweaks
+Description: Color Navigation Bars based on icon color.
+Author: xTheMaster3x
+Depiction: http://repo.tm3dev.com/depics/ac.html
+Name: Adaptive Bar
+
+Package: com.xtm3x.asquared
+Version: 0.0.1-3+debug
+Architecture: iphoneos-arm
+Maintainer: xTheMaster3x <xtm3xyt@gmail.com>
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./pkgfiles/com.xtm3x.asquared_0.0.1-3+debug_iphoneos-arm.deb
+Size: 5774
+MD5sum: c06f2e3331c5169cb8f2a13972b812a2
+SHA1: 4c1c7a47d8d24cd1d920eef20d646cfdac16bfe0
+SHA256: 6af8b70dd802c94f2025c38aa207876040fce355ae87398e7900430aad428a19
+Section: Tweaks
+Description: Replace application backgrounds with your wallpaper.
+Author: xTheMaster3x <xtm3xyt@gmail.com>
+Depiction: http://repo.tm3dev.com/depics/asquared.html
+Name: Adaptive Apps
+
+Package: com.xtm3x.asquared
+Version: 0.0.2-1+debug
+Architecture: iphoneos-arm
+Maintainer: xTheMaster3x <xtm3xyt@gmail.com>
+Installed-Size: 312
+Depends: mobilesubstrate
+Filename: ./pkgfiles/com.xtm3x.asquared_0.0.2-1+debug_iphoneos-arm.deb
+Size: 29728
+MD5sum: e3c3702f48204306bc322e7c56a4705f
+SHA1: 44326d122a5293f21152d9111b5ffd9199cc1e1b
+SHA256: c2f9f8df75796cc34932ef750e1520181b8bd4740651331ff98f931bbda6775f
+Section: Tweaks
+Description: Replace application backgrounds with your wallpaper.
+Author: xTheMaster3x <xtm3xyt@gmail.com>
+Depiction: http://repo.tm3dev.com/depics/asquared.html
+Name: Adaptive Apps
+
+Package: com.xtm3x.asquared
+Version: 0.0.3-1+debug
+Architecture: iphoneos-arm
+Maintainer: xTheMaster3x <xtm3xyt@gmail.com>
+Installed-Size: 312
+Depends: mobilesubstrate
+Filename: ./pkgfiles/com.xtm3x.asquared_0.0.3-1+debug_iphoneos-arm.deb
+Size: 30788
+MD5sum: e3793a3ddc719185a3d1aab2561feea6
+SHA1: 1145067c8acd8aa20df4e73f9303bafaba3458ec
+SHA256: a7fb4abb1cf3a65c9ab070b5741487a853ed47bb4f8868676c26cb63ce764637
+Section: Tweaks
+Description: Replace application backgrounds with your wallpaper.
+Author: xTheMaster3x <xtm3xyt@gmail.com>
+Depiction: http://repo.tm3dev.com/depics/asquared.html
+Name: Adaptive Apps
+
+Package: com.xtm3x.asquared
+Version: 0.0.4-8
+Architecture: iphoneos-arm
+Maintainer: xTheMaster3x <xtm3xyt@gmail.com>
+Installed-Size: 316
+Depends: mobilesubstrate
+Filename: ./pkgfiles/com.xtm3x.asquared_0.0.4-8_iphoneos-arm.deb
+Size: 35906
+MD5sum: 75740782ab869bd944a474096d1a1eb8
+SHA1: 660ba54657c82af7f0e6568bf557141f04eabdb2
+SHA256: b53c5c77018214c1d121baa681e563c9729b7d9d7804cb8fd5f1caa7375560ac
+Section: Tweaks
+Description: Replace application backgrounds with your wallpaper.
+Author: xTheMaster3x <xtm3xyt@gmail.com>
+Depiction: http://repo.tm3dev.com/depics/asquared.html
+Name: Adaptive Apps
+
+Package: com.xtm3x.asquared
+Version: 0.0.5
+Architecture: iphoneos-arm
+Maintainer: xTheMaster3x <xtm3xyt@gmail.com>
+Installed-Size: 300
+Depends: mobilesubstrate
+Filename: ./pkgfiles/com.xtm3x.asquared_0.0.5_iphoneos-arm.deb
+Size: 37796
+MD5sum: 2570646a7912bf770242d7e2fc793223
+SHA1: 40152a3db07cf35147d627f2820ec8b1c6ceebf0
+SHA256: fdb13571888dd478ae29e6affab8725381cd73cee4de9be2d62b2a8d2e35d74e
+Section: Tweaks
+Description: Replace application backgrounds with your wallpaper.
+Author: xTheMaster3x <xtm3xyt@gmail.com>
+Depiction: http://repo.tm3dev.com/depics/asquared.html
+Name: Adaptive Apps
+
+Package: com.xtm3x.bingbong
+Version: 1.1.1~beta
+Architecture: iphoneos-arm
+Maintainer: xTheMaster3x
+Installed-Size: 148
+Depends: mobilesubstrate
+Filename: ./pkgfiles/com.xtm3x.bingbong_1.1.1~beta_iphoneos-arm.deb
+Size: 14876
+MD5sum: 7a62bee15b3f0484a894d5a98021cb2c
+SHA1: 525d7ebd7b86ba9a290d26b7b2af79e8ad6890a2
+SHA256: 5a014b6268f17dafe79cc523f020cafa0074b1bca1500e0550fc4c1819072d65
+Section: Tweaks
+Description: In-App browser for the Messages app.
+Author: xTheMaster3x
+Name: BIM
+
+Package: com.xtm3x.bingbong
+Version: 1.2-beta-2
+Architecture: iphoneos-arm
+Maintainer: xTheMaster3x
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./pkgfiles/com.xtm3x.bingbong_1.2-beta-2_iphoneos-arm.deb
+Size: 4342
+MD5sum: 4fd08540eec699b3eda49cac00538ed7
+SHA1: c1dd622d72b28d510a6e8f41e8e2a4a7b95e9d26
+SHA256: 805cc41a10e083f24331bd0f0df9daf29c572257adcfdfb3e7f721f6c5868cc7
+Section: Tweaks
+Description: In-App browser for the Messages app.
+Author: xTheMaster3x
+Depiction: http://repo.tm3dev.com/depics/bim.html
+Name: BIM
+
+Package: com.xtm3x.bingbong
+Version: 1.2-beta-3
+Architecture: iphoneos-arm
+Maintainer: xTheMaster3x
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./pkgfiles/com.xtm3x.bingbong_1.2-beta-3_iphoneos-arm.deb
+Size: 4350
+MD5sum: 4f1f9d424c9e579638944fb0653536f6
+SHA1: df8c05078c15996d1fc9a534af05a17d27b0d7c1
+SHA256: 25342982acb629a015e6c86a32ab1a6bc64722c295563f059fdbc9ecdff2e51e
+Section: Tweaks
+Description: In-App browser for the Messages app.
+Author: xTheMaster3x
+Depiction: http://repo.tm3dev.com/depics/bim.html
+Name: BIM
+
+Package: com.xtm3x.bingbong
+Version: 1.2-beta-4
+Architecture: iphoneos-arm
+Maintainer: xTheMaster3x
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./pkgfiles/com.xtm3x.bingbong_1.2-beta-4_iphoneos-arm.deb
+Size: 4838
+MD5sum: 165b54578520c5ce479e4a9dec043d96
+SHA1: 78de8d26c1cbe14616beebc724b65b9251e0170b
+SHA256: 7fe2d88320d1f42543c6248c69bee2e033037b7955249728606e7730c0089559
+Section: Tweaks
+Description: In-App browser for the Messages app.
+Author: xTheMaster3x
+Depiction: http://repo.tm3dev.com/depics/bim.html
+Name: BIM
+
+Package: com.xtm3x.bingbong
+Version: 1.2~beta-1
+Architecture: iphoneos-arm
+Maintainer: xTheMaster3x
+Installed-Size: 148
+Depends: mobilesubstrate
+Filename: ./pkgfiles/com.xtm3x.bingbong_1.2~beta-1_iphoneos-arm.deb
+Size: 14796
+MD5sum: 45f83bf5aa7d24fff3f9c54e34e436e2
+SHA1: 72dc7e9e77c3fd9f0555bfb8164b67d8013f64d2
+SHA256: 2190a423945e5346caec2f2bf18a2018b67bf6638ba3043cb581cc5492a0f8ab
+Section: Tweaks
+Description: In-App browser for the Messages app.
+Author: xTheMaster3x
+Depiction: http://repo.tm3dev.com/depics/bim.html
+Name: BIM
+
+Package: com.xtm3x.bingbong
+Version: 1.3.1-beta-1
+Architecture: iphoneos-arm
+Maintainer: xTheMaster3x
+Installed-Size: 144
+Depends: mobilesubstrate
+Filename: ./pkgfiles/com.xtm3x.bingbong_1.3.1-beta-1_iphoneos-arm.deb
+Size: 12812
+MD5sum: 709f6d03eb04612af10316ce4781c135
+SHA1: f8331555882cd4a37ff4967529437a35e7d0247c
+SHA256: ab57f233c9d8fa95ad920d9b1236483fd864078da9adca9934a52b2171fa820d
+Section: Tweaks
+Description: In-App browser for the Messages app.
+Author: xTheMaster3x
+Depiction: http://repo.tm3dev.com/depics/bim.html
+Name: BIM
+
+Package: com.xtm3x.bingbong
+Version: 1.3.1-beta-2
+Architecture: iphoneos-arm
+Maintainer: xTheMaster3x
+Installed-Size: 144
+Depends: mobilesubstrate
+Filename: ./pkgfiles/com.xtm3x.bingbong_1.3.1-beta-2_iphoneos-arm.deb
+Size: 12822
+MD5sum: 092a51a73616af5a6687c054d1633279
+SHA1: 2b67642d2d2eba28247d3acfa0ce3b2f4f9e797f
+SHA256: 8710b34ad388f1e0234bbe85625a22d514fa2f35633bc35996e88c869255948c
+Section: Tweaks
+Description: In-App browser for the Messages app.
+Author: xTheMaster3x
+Depiction: http://repo.tm3dev.com/depics/bim.html
+Name: BIM
+
+Package: com.xtm3x.bingbong
+Version: 1.3.1.3
+Architecture: iphoneos-arm
+Maintainer: xTheMaster3x
+Installed-Size: 144
+Depends: mobilesubstrate
+Filename: ./pkgfiles/com.xtm3x.bingbong_1.3.1.3_iphoneos-arm.deb
+Size: 13152
+MD5sum: 026f0bff837edaa526607b6796c89139
+SHA1: fb99d3ee65f4310de893d2458828e386e7fa84b3
+SHA256: 14ec45b2c602d85ad79c6aa3c142c6a5336ef0451a006b2b73ac8e0d185bf677
+Section: Tweaks
+Description: In-App browser for the Messages app.
+Author: xTheMaster3x
+Depiction: http://repo.tm3dev.com/depics/bim.html
+Name: BIM
+
+Package: com.xtm3x.bingbong
+Version: 1.3.1.4
+Architecture: iphoneos-arm
+Maintainer: xTheMaster3x
+Installed-Size: 144
+Depends: mobilesubstrate
+Filename: ./pkgfiles/com.xtm3x.bingbong_1.3.1.4_iphoneos-arm.deb
+Size: 13170
+MD5sum: 0ac92414db204b1c3675bb6a38bb88bb
+SHA1: 9964aedaca4ed69db74e4c02facc699508371d42
+SHA256: 7da142f491effaf7688746dc032139b89b01012ff5c5a4504691e6eebd4afcd9
+Section: Tweaks
+Description: In-App browser for the Messages app.
+Author: xTheMaster3x
+Depiction: http://repo.tm3dev.com/depics/bim.html
+Name: BIM
+
+Package: com.xtm3x.bork
+Version: 0.0.1-22
+Architecture: iphoneos-arm
+Maintainer: xTheMaster3x
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: ./pkgfiles/com.xtm3x.bork_0.0.1-22_iphoneos-arm.deb
+Size: 48454
+MD5sum: b7acf0d1b56c8fb55aa47441c8153dd4
+SHA1: 834bcc65c26a9de003ae856abd0cc2ed4bc0e28e
+SHA256: 552f3cad12e21724908ee0671a4e465af5d1fcf8d78ce6be59d87bc37c2dfade
+Section: Toys
+Description: Why did I make this...
+Author: xTheMaster3x
+Name: Börk
+
+Package: com.xtm3x.dye
+Version: 1.1-7
+Architecture: iphoneos-arm
+Maintainer: xTheMaster3x
+Installed-Size: 564
+Depends: mobilesubstrate
+Filename: ./pkgfiles/com.xtm3x.dye_1.1-7_iphoneos-arm.deb
+Size: 98176
+MD5sum: be7836dc1169b5a86840a6878c75d90a
+SHA1: 397c24814dd3f6d27b0eb53706b807fa927d84c0
+SHA256: e43bb48c75b17d082cf9109dc427ca9de54c8cc2f1053229e8dbe424a29482ae
+Section: Tweaks
+Description: Change your iOS tint colors.
+Author: xTheMaster3x
+Depiction: http://repo.tm3dev.com/depics/dye.html
+Name: Dye
+
+Package: com.xtm3x.integrate
+Version: 0.0.2
+Architecture: iphoneos-arm
+Maintainer: xTheMaster3x
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./pkgfiles/com.xtm3x.integrate_0.0.2_iphoneos-arm.deb
+Size: 4184
+MD5sum: f0810d468268aeaede7b78a96ad24241
+SHA1: 68f0cb6ea237cbecb502ef8d7688f8bb2c24eef3
+SHA256: 583b9b2607ab4871cb2e52afeaeeee07a7cce7a278d20139185a1b40f3eedd8d
+Section: Tweaks
+Description: Remove table view separators.
+Author: xTheMaster3x
+Name: Integrate
+
+Package: com.xtm3x.nolabels
+Version: 1.0-4
+Architecture: iphoneos-arm
+Maintainer: xTheMaster3x
+Installed-Size: 72
+Depends: mobilesubstrate
+Filename: ./pkgfiles/com.xtm3x.nolabels_1.0-4_iphoneos-arm.deb
+Size: 3580
+MD5sum: 31ced779ed08ceac3d7964094e9793ac
+SHA1: 16deb8f00b6a8ec07897e9ff6f94e7939944c65b
+SHA256: b46f383afd74a43b916d4864869b649f98a187d8098143e166ad25c1ba82a111
+Section: Tweaks
+Description: Removes the springboard icon labels
+Author: xTheMaster3x
+Depiction: http://repo.tm3dev.com/depics/nolabels.html
+Name: NoLabels
+
+Package: com.xtm3x.nolabels
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: xTheMaster3x
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./pkgfiles/com.xtm3x.nolabels_1.1_iphoneos-arm.deb
+Size: 3502
+MD5sum: 8ca8a1609ec6c33d79ac9fbdc0f09c31
+SHA1: 76b9f690ab54e6c7de9c15661588e62904c864a4
+SHA256: d034634835c5fa3aea18dccb1258f2f40afa7dc7e709b576b904857c49959f69
+Section: Tweaks
+Description: Remove the springboard icon labels
+Author: xTheMaster3x
+Depiction: http://repo.tm3dev.com/depics/nolabels.html
+Name: NoLabels
+
+Package: com.xtm3x.presentation
+Version: 0.0.1-3
+Architecture: iphoneos-arm
+Maintainer: xTheMaster3x
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./pkgfiles/com.xtm3x.presentation_0.0.1-3_iphoneos-arm.deb
+Size: 3908
+MD5sum: 266a7c3571f4b725ab308b1944618fba
+SHA1: 84b89099a7daf7f03821ae7a8eb72cb9354b796c
+SHA256: b9441ea7a8999b77fa31f6cc87b01ff87c3e79d15f1931b046bdc5eb1e591892
+Section: Tweaks
+Description: Class-0 like notifications on the lockscreen.
+Author: xTheMaster3x
+Depiction: http://repo.tm3dev.com/depics/present.html
+Name: Presentation
+
+Package: com.xtm3x.reachall
+Version: 0.0.2-48
+Architecture: iphoneos-arm
+Maintainer: xTheMaster3x
+Installed-Size: 404
+Depends: mobilesubstrate, libactivator (>= 1.9.1~beta1)
+Filename: ./pkgfiles/com.xtm3x.reachall_0.0.2-48_iphoneos-arm.deb
+Size: 62622
+MD5sum: a2d5dab3afe23a2b9d21dd82ee921c0a
+SHA1: d3a4fd4bfe85209041a3e4f080d7db36f97a971e
+SHA256: 3f7bb73a40a60e8c8473ade6f5849bc420fac453ef70c8bdc31f2b3b3ca54410
+Section: Tweaks
+Description: Reachability on all iOS 8 devices.
+Author: xTheMaster3x
+Depiction: http://repo.tm3dev.com/depics/reach.html
+Name: ReachAll
+
+Package: com.xtm3x.replaceblur
+Version: 0.0.1-3
+Architecture: iphoneos-arm
+Maintainer: xTheMaster3x
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./pkgfiles/com.xtm3x.replaceblur_0.0.1-3_iphoneos-arm.deb
+Size: 3874
+MD5sum: 68c34859970eb125a7bc76e0e0c7c6fa
+SHA1: 585b0c339e1db745e3b4588caf42f71c2a1fd907
+SHA256: ef8f7a2f2e5acb2336e3abb077cb82012b32cd46bfc159a43dc729a8cc21ac87
+Section: Tweaks
+Description: Replace wallpaper blurs.
+Author: xTheMaster3x
+Name: ReplaceBlur
+
+Package: com.xtm3x.sixbar
+Version: 0.0.4-451
+Architecture: iphoneos-arm
+Maintainer: xTheMaster3x <xtm3xyt@gmail.com>
+Installed-Size: 456
+Depends: mobilesubstrate, applist, preferenceloader
+Filename: ./pkgfiles/com.xtm3x.sixbar_0.0.4-451_iphoneos-arm.deb
+Size: 104396
+MD5sum: 43bbd909d49fac6b1adeb724a085fd8d
+SHA1: 30726c10988aa6e8abe183ae18af688224eb6b14
+SHA256: aa7fa00fd59b9c03ca23ddd3a68bb6ed8db0f114a665d39660fce3bf9a5e388a
+Section: Tweaks
+Description: Bring back the old iOS 6 Status Bar
+Author: xTheMaster3x <xtm3xyt@gmail.com>
+Depiction: http://repo.tm3dev.com/depics/sixbar.html
+Name: SixBar
+Support: http://bugs.tm3dev.appspot.com/
+
+Package: com.xtm3x.sixbar
+Version: 0.0.5-beta-2
+Architecture: iphoneos-arm
+Maintainer: xTheMaster3x <xtm3xyt@gmail.com>
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./pkgfiles/com.xtm3x.sixbar_0.0.5-beta-2_iphoneos-arm.deb
+Size: 4726
+MD5sum: 551caa69f12c261cdd65b81b7ce3a913
+SHA1: d198293b73aceb95a399b7f0bce65914c326da2f
+SHA256: 0979d36aefb937430adf24a1c011775c002d57beb78f9f11199c2237b8afbc25
+Section: Tweaks
+Description: SixBar rewrite --superduperalpha--
+Author: xTheMaster3x <xtm3xyt@gmail.com>
+Depiction: http://repo.tm3dev.com/depics/sixbar.html
+Name: SixBar
+
+Package: com.xtm3x.sixbar
+Version: 0.0.5-beta-46
+Architecture: iphoneos-arm
+Maintainer: xTheMaster3x <xtm3xyt@gmail.com>
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./pkgfiles/com.xtm3x.sixbar_0.0.5-beta-46_iphoneos-arm.deb
+Size: 5376
+MD5sum: 886598a3671a338f203c2ce52e7d1a6e
+SHA1: 7a1a6797c55fcfdaa7fffb0f7bc540edb0c31411
+SHA256: 3771ce12043428a18e422c61b4154617c7d8e71566f87e6c7106c75edf9e2582
+Section: Tweaks
+Description: SixBar rewrite --superduperalpha--
+Author: xTheMaster3x <xtm3xyt@gmail.com>
+Depiction: http://repo.tm3dev.com/depics/sixbar.html
+Name: SixBar
+
+Package: com.xtm3x.sixbar
+Version: 1.0~beta2
+Architecture: iphoneos-arm
+Maintainer: xTheMaster3x <xtm3xyt@gmail.com>
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./pkgfiles/com.xtm3x.sixbar_1.0~beta2_iphoneos-arm.deb
+Size: 4512
+MD5sum: 0cf8a07519a5680577ce45c8020a27d7
+SHA1: f817bd5958b38502aa219db65d0c5fe505f4eb51
+SHA256: bb0deb6918b62b12382812d3b0ea5e4df9ef084becf906cd003a37dfe26f79e9
+Section: Tweaks
+Description: SixBar rewrite --superduperalpha--
+Author: xTheMaster3x <xtm3xyt@gmail.com>
+Depiction: https://xtm3x.github.io/repo/depics/sixbar.html
+Name: SixBar
+
+Package: com.xtm3x.sleekkey
+Version: 1.0.1-3
+Architecture: iphoneos-arm
+Maintainer: xTheMaster3x
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./pkgfiles/com.xtm3x.sleekkey_1.0.1-3_iphoneos-arm.deb
+Size: 4938
+MD5sum: 07c73a936d7bc37148a95c1c98720cf4
+SHA1: 155fd163b5c88c62937726e9a9974e1bea9d1415
+SHA256: 6fbbd988c76ab713148a6bbec07b3587b2b65f3ba96d64a95edbbbe74a569b90
+Section: Tweaks
+Description: Removes the background on system keys.
+Author: xTheMaster3x
+Depiction: http://repo.tm3dev.com/depics/sleekkey.html
+Name: SleekKey
+
+Package: com.xtm3x.slf
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: xTheMaster3x
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: ./pkgfiles/com.xtm3x.slf_0.0.1_iphoneos-arm.deb
+Size: 3428
+MD5sum: 6a9155c5c67f6f13edd60f56b7013b8e
+SHA1: ceba14c7b82838518ab2d53a45e75c52e25bc65e
+SHA256: f3424bf7b68acb3109277c03b3503837be29fadf9891dbcdac6ec431341ded57
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: xTheMaster3x
+Name: Settings Layout Fix
+
+Package: com.xtm3x.sweepup
+Version: 0.0.1-1
+Architecture: iphoneos-arm
+Maintainer: xTheMaster3x
+Installed-Size: 164
+Depends: mobilesubstrate
+Conflicts: com.xtm3x.cleanup
+Filename: ./pkgfiles/com.xtm3x.sweepup_0.0.1-1_iphoneos-arm.deb
+Size: 21282
+MD5sum: 248613b117f7e7aa2d1c181364adce7c
+SHA1: 9c706d9eb6070af19aaecd7bfd698a2bd406ad02
+SHA256: 13b7fe6af4f69facde78c52e06f99563e8d59bf0f897ad4717ae72b3a21edc65
+Section: Tweaks
+Description: Quickly remove all background apps
+Author: xTheMaster3x
+Depiction: http://repo.tm3dev.com/depics/sweepup.html
+Name: SweepUp
+
+Package: com.xtm3x.titlehide
+Version: 0.0.1-2
+Architecture: iphoneos-arm
+Maintainer: xTheMaster3x
+Installed-Size: 72
+Depends: mobilesubstrate
+Filename: ./pkgfiles/com.xtm3x.titlehide_0.0.1-2_iphoneos-arm.deb
+Size: 4122
+MD5sum: 57e93a1c799d238348a785c623adec6f
+SHA1: 0c7384f550764440feae788435225b4054f21b08
+SHA256: 4063de458287cf415af9c5d0b9821f1ae17edbff9f5516bb1f66751eb51325ff
+Section: Tweaks
+Description: Hide your folder titles
+Author: xTheMaster3x
+Depiction: http://repo.tm3dev.com/depics/titlehide.html
+Name: TitleHide
+

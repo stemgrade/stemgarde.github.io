@@ -1,0 +1,14 @@
+Origin: stemgrade Repo
+Label: stemgrade Repo
+Suite: stable
+Version: 1.0
+Codename: stable
+Architectures: iphoneos-arm
+Components: main
+Description: Cydia Repository for my Tweaks.
+SHA1:
+ 3a254e3b856dd4dd53116960414c401bd3a6b4ac 614 Packages
+ 41f9ade18800a7bbedc0347afd794853dc4f18d4 457 Packages.bz2
+SHA256:
+ 0d09cc1efa33fe6ce3bbeb1222afad6698fa201991b20f85263b9885d8ab001d 614 Packages
+ c2ea0efad88fbbdab877ec16877389f6e6cf6d3e4b521a18ea69345b020f3929 457 Packages.bz2
