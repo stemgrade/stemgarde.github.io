@@ -1,0 +1,36 @@
+{
+  "minVersion": "0.4",
+  "class": "DepictionTabView",
+  "tintColor": "#EB7D34",
+  "tabs": [
+    {
+      "class": "DepictionStackView",
+      "tabname": "Depiction",
+      "views": [
+        {
+          "class": "DepictionHeaderView",
+          "title": "adguard"
+        },
+		{
+		 "class": "DepictionSubheaderView",
+		 "title": "pro enabled."
+		},
+		{
+		  "class": "DepictionLabelView",
+		  "text" : "no options to configure"
+		},
+		{
+		  "class": "DepictionSeparatorView",
+		  "spacing": 25
+		},
+		{
+		  "class": "DepictionReviewView",
+		  "title": "Amazing tweak",
+		  "author": "stemgrade",
+		  "markdown":"adguard pro enabled no options to toggle",
+		  "rating": 4
+        
+      ]
+    }
+  ]
+}

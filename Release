@@ -1,8 +1,8 @@
 Origin: stemgrade
-Label: stemgrade
+Label: stemgrades Repo
 Suite: stable
 Version: 1.0
-Codename: stemgrade
+Codename: ios
 Architectures: iphoneos-arm
 Components: main
-Description: stemgrade
+Description: stemgrades personal repo.

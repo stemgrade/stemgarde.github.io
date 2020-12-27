@@ -1,0 +1,31 @@
+<package>
+	<id>com.stemgrade.adguard</id>
+	<name>adguard</name>
+	<version>1.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>11.0</miniOS>
+			<maxiOS>14.2.0</maxiOS>
+			<otherVersions>unconfirmed</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<shortDescription>adguard pro enabled</shortDescription>
+	<descriptionlist>
+		<description>no need to configure just install and go</description>
+		<description> - Works on iOS and iPadOS 11-14!</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>😎!</description>
+			<image>screenshot.jpg</image>
+		</screenshot>
+	</screenshots>
+	<changelog>
+		<change>initial release</change>
+	</changelog>
+	<links></links>
+</package>

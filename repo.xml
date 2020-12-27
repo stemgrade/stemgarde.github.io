@@ -1,19 +1,24 @@
 <repo>
 	<footerlinks>
 		<link>
-			<name>Follow Twitter</name>
-			<url>https://twitter.com/stemgrade</url>
-			<iconclass>fa fa-twitter</iconclass>
+			<name>GitHub</name>
+			<url>https://github.com/stemgrade</url>
+			<iconclass>fa fa-github</iconclass>
 		</link>
 		<link>
-			<name>Help & Support</name>
-			<url>mailto:stemgrade081@gmail.com</url>
-			<iconclass>fa fa-envelope-open</iconclass>
+			<name>Reddit</name>
+			<url>https://reddit.com/u/stemgrade</url>
+			<iconclass>fa fa-reddit</iconclass>
 		</link>
 		<link>
-	    <name>Support me with a beer</name>
-	    <url>https://t.co/kKjl4HniBX?amp=1</url>
+			<name>Instagram</name>
+			<url>https://instagram.com/stemgrade</url>
+			<iconclass>fa fa-instagram</iconclass>
+		</link>
+		<link>
+			<name>Donate PayPal</name>
+			<url>https://paypal.me/stemgrade</url>
 			<iconclass>fa fa-paypal</iconclass>
-	  </link>
+		</link>
 	</footerlinks>
 </repo>

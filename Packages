@@ -3,10 +3,7 @@ Name: adguard
 Depends: mobilesubstrate, preferenceloader
 Architecture: iphoneos-arm
 Description: arm6e A12/A13 support and armv6 support for older device
-Icon: https://stemgrade.github.io/packages_info/screenshots/adguard1.png
-Homepage: https://twitter.com/StemGrade
-Sileodepiction: https://stemgrade.github.io/Sileo/adguard.json
-Depiction: https://stemgrade.github.io/packages_info/adguard/?p=info
+Depiction: https://stemgrade.github.io/depictions/?p=com.stemgrade.adguard
 Maintainer: stem grade
 Author: stem grade
 Section: Tweaks
@@ -16,22 +13,3 @@ Size: 81750
 MD5sum: 3dc719e39cb7ebc96ba047010612377e
 SHA1: cee4e20dce767a6228c086a7b639277a50607867
 SHA256: 6361972513a2ff1a88d3dd3decb1c027b2e4387f8f27c54a77a414f6237858c3
-
-Package: com.stem.facebookdarkmode
-Name: facebookdarkmode
-Depends: mobilesubstrate, firmware (>=10)
-Architecture: iphoneos-arm
-Description: facebook darkmode
-Maintainer: stemgrade
-Author: stemgrade
-Section: Tweaks
-Version: 1.1
-Filename: ./debs/com.stem.facebookdarkmode.deb
-Size: 64888
-Icon: https://stemgrade.github.io/packages_info/screenshots/fbdarkmode1.png
-Homepage: https://twitter.com/StemGrade
-Sileodepiction: https://stemgrade.github.io/Sileo/facebookdarkmode.json
-Depiction: https://stemgrade.github.io/packages_info/facebookdarkmode/?p=info
-MD5sum: c5fdbdaf9037bb10e986410cbb31410a
-SHA1: bbcc628115c23c6a47e0fc3f1378d7a57a47698b
-SHA256: 168e715884717996f13b1096cb4ddc5f908aff344ad734af12f2b91c8c8d71a0
