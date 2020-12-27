@@ -1,0 +1,36 @@
+<package>
+	<id>com.180.adguard</id>
+	<name>adguard</name>
+	<version>0.0.2<</version>
+		<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
+      
+        <shortDescription>Enabled Pro</shortDescription>
+	<descriptionlist>
+		<description>Enabled Pro</description>
+		<description>Enabled Pro.</description>
+		<description><![CDATA[
+		You can also have<br/> 
+		a multi-line item.
+		]]>
+		</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>This is a description for screenshot 1. It's Cydia!</description>
+			<image>cydia.jpg</image>
+		</screenshot>		
+		<screenshot>
+			<description>This is a description for screenshot 2. It's another Cydia!</description>
+			<image>cydia.jpg</image>
+		</screenshot>		
+	</screenshots>
+		<links>
+		<link>
+			<name>/r/jailbreak</name>
+			<url>https://www.reddit.com/r/ahmad4maylod</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+	</links>
+</package>
