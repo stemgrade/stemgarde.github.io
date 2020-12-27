@@ -1,8 +1,12 @@
 Package: com.180.adguard
 Name: adguard
-Depends: mobilesubstrate, preferenceloader 
+Depends: mobilesubstrate, preferenceloader
 Architecture: iphoneos-arm
-Description: arm6e A12/A13 support and armv6 support for older device 
+Description: arm6e A12/A13 support and armv6 support for older device
+Icon: https://stemgrade.github.io/packages_info/screenshots/adguard1.png
+Homepage: https://twitter.com/StemGrade
+Sileodepiction: https://stemgrade.github.io/Sileo/adguard.json
+Depiction: https://stemgrade.github.io/packages_info/adguard/?p=info
 Maintainer: stem grade
 Author: stem grade
 Section: Tweaks
@@ -12,4 +16,3 @@ Size: 81750
 MD5sum: 3dc719e39cb7ebc96ba047010612377e
 SHA1: cee4e20dce767a6228c086a7b639277a50607867
 SHA256: 6361972513a2ff1a88d3dd3decb1c027b2e4387f8f27c54a77a414f6237858c3
-Depiction: https://stemgrade.github.io/depictions/?p=adguard

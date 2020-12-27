@@ -1,14 +1,19 @@
 <repo>
 	<footerlinks>
 		<link>
-			<name>Follow me on Twitter</name>
-			<url>https://mobile.twitter.com/StemGrade</url>
+			<name>Follow Twitter</name>
+			<url>https://twitter.com/stemgrade</url>
 			<iconclass>fa fa-twitter</iconclass>
 		</link>
 		<link>
-			<name>I want this depiction template</name>
-			<url>https://github.com/stemgrade/stemgrade.github.io</url>
-			<iconclass>fa fa-thumbs-up</iconclass>
+			<name>Help & Support</name>
+			<url>mailto:stemgrade081@gmail.com</url>
+			<iconclass>fa fa-envelope-open</iconclass>
 		</link>
+		<link>
+	    <name>Support me with a beer</name>
+	    <url>https://t.co/kKjl4HniBX?amp=1</url>
+			<iconclass>fa fa-paypal</iconclass>
+	  </link>
 	</footerlinks>
 </repo>

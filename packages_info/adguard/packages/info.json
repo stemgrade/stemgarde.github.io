@@ -1,0 +1,22 @@
+{
+  "name": "adguard",
+  "package": "com.180.adguard",
+  "author": "stem grade",
+  "version": "1.0",
+  "dependency": "mobilesubstrate",
+  "minOSVersion": "11.0",
+  "maxOSVersion": "14.2.0",
+  "otheriOS": "untested",
+  "description": "<div>adguard Pro <br> <br> • this adguard Tweak is to get premium features for free</div>",
+  "changelog": {
+    "2.6.7": [
+      "initial release."
+    ]
+  },
+  "screenshots": {
+    "adguard1.png": "",
+    "adguard2.png": "",
+    "adguard3.png": ""
+  },
+  "links": {}
+}
