@@ -10,7 +10,7 @@ Depiction: https://stemgrade.github.io/packages_info/adguard/?p=info
 Maintainer: stem grade
 Author: stem grade
 Section: Tweaks
-Version: 0.0.2
+Version: 1.0
 Filename: ./debs/adguard.deb
 Size: 81750
 MD5sum: 3dc719e39cb7ebc96ba047010612377e
