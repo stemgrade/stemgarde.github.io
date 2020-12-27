@@ -4,8 +4,7 @@
 	<version>0.0.2<</version>
 		<dependencies>
 		<package>mobilesubstrate</package>
-	</dependencies>
-      
+	</dependencies>      
         <shortDescription>Enabled Pro</shortDescription>
 	<descriptionlist>
 		<description>Enabled Pro</description>
