@@ -4,7 +4,7 @@
   "author": "stem grade",
   "version": "1.1",
   "dependency": "mobilesubstrate",
-  "minOSVersion": "10.0",
+  "minOSVersion": "11.0",
   "maxOSVersion": "14.2.0",
   "otheriOS": "untested",
   "description": "<div>facebook darkmode <br> <br> • Enjoy the darkmode</div>",
@@ -15,6 +15,8 @@
   },
   "screenshots": {
     "fbdarkmode1.png": "",
+    "adguard2.png": "",
+    "adguard3.png": ""
   },
   "links": {}
 }
