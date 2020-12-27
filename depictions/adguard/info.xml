@@ -5,7 +5,6 @@
 		<dependencies>
 		<package>mobilesubstrate</package>
 	</dependencies>
-      
         <shortDescription>Enabled Pro</shortDescription>
 	<descriptionlist>
 		<description>Enabled Pro</description>
@@ -28,8 +27,8 @@
 	</screenshots>
 		<links>
 		<link>
-			<name>/r/jailbreak</name>
-			<url>https://www.reddit.com/r/ahmad4maylod</url>
+			<name>adguard</name>
+			<url>com.180.adguard</url>
 			<iconclass>fa fa-reddit</iconclass>
 		</link>
 	</links>
