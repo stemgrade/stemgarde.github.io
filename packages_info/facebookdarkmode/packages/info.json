@@ -1,0 +1,20 @@
+{
+  "name": "Facebookdarkmode",
+  "package": "com.stem.facebookdarkmode",
+  "author": "stemgrade",
+  "version": "1.1",
+  "dependency": "mobilesubstrate",
+  "minOSVersion": "10.0",
+  "maxOSVersion": "14.2.0",
+  "otheriOS": "untested",
+  "description": "<div>darkmode for Facebook<br> <br>some well worth facebook tweaks</div>",
+  "changelog": {
+    "1.1": [
+      "initial release"
+    ]
+  },
+  "screenshots": {
+    "fbdarkmode1.png": "",
+  },
+  "links": {}
+}
