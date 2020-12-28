@@ -26,8 +26,7 @@ Author: stem grade
 Section: Tweaks
 Version: 4.0
 Filename: ./debs/facebookdarkmode.deb
-Size: 81750
-Installed-Size: 624
+Size: 65034
 MD5sum: 339abfee4a499ec2fd5d112e61f0863d
 SHA1: a50b26f85e6be8214f48c08176f4a4fbf9b9533c
 SHA256: d510338ac40d57348aa74e033c7b6dbb86320a4bcffd0f6277e71fb2511d0a45
