@@ -1,11 +1,6 @@
 <repo>
 	<footerlinks>
 		<link>
-			<name>Reddit</name>
-			<url>https://reddit.com/u/stemgrade</url>
-			<iconclass>fa fa-reddit</iconclass>
-		</link>
-		<link>
 			<name>Twitter</name>
 			<url>https://mobile.twitter.com/StemGrade</url>
 			<iconclass>fa fa-instagram</iconclass>
