@@ -1,6 +1,6 @@
 Package: com.180.adguard
 Name: adguard
-Depends: mobilesubstrate, preferenceloader
+Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Description: arm6e A12/A13 support and armv6 support for older device
 Depiction: https://stemgrade.github.io/depictions/?p=com.stemgrade.adguard
