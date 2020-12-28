@@ -14,3 +14,20 @@ Installed-Size: 624
 MD5sum: 3dc719e39cb7ebc96ba047010612377e
 SHA1: cee4e20dce767a6228c086a7b639277a50607867
 SHA256: 6361972513a2ff1a88d3dd3decb1c027b2e4387f8f27c54a77a414f6237858c3
+
+Package: com.stem.facebookdarkmode
+Name: facebook darkmode
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: facebook darkmode
+Depiction: https://stemgrade.github.io/depictions/?p=com.stemgrade.facebook
+Maintainer: stem grade
+Author: stem grade
+Section: Tweaks
+Version: 4.0
+Filename: ./debs/facebookdarkmode.deb
+Size: 65034
+MD5sum: 339abfee4a499ec2fd5d112e61f0863d
+SHA1: a50b26f85e6be8214f48c08176f4a4fbf9b9533c
+SHA256: d510338ac40d57348aa74e033c7b6dbb86320a4bcffd0f6277e71fb2511d0a45
+
