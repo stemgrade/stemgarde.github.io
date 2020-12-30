@@ -66,3 +66,20 @@ MD5sum: b525fa131ce615cb49c5ca77f1fc8269
 SHA1: 6b2ac37a619cce4dac0734758bb354f707bb29a9
 SHA256: 1e473bef61159c1a3820bd6028f962e16d2b58a8a04c1229d23526080004dd2f
 
+Package: com.stem.twitter
+Name: Twitee
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14)
+Architecture: iphoneos-arm
+Description: Tweaks For twitter app
+Depiction: https://stemgrade.github.io/depictions/?p=com.stemgrade.Twitee
+Maintainer: stem grade
+Author: stem grade
+Section: Tweaks
+Version: 3.0
+Size: 80230
+Installed-Size: 544
+Filename: ./debs/twitter.deb
+MD5sum: 7af7a6c5f6cfec37822f395ca06a1252
+SHA1: 1ea6705b7f1d12a3facf7674f50f4199de16d62a
+SHA256: e878b1b134008556ef873b942974e3621104d5ce172c3086718e4185f39f7d41
+
