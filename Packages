@@ -59,9 +59,9 @@ Maintainer: stem grade
 Author: stem grade
 Section: Tweaks
 Version: 3.0
+Size: 85516
 Installed-Size: 592
 Filename: ./debs/musicer.deb
-Size: 85516
 MD5sum: b525fa131ce615cb49c5ca77f1fc8269
 SHA1: 6b2ac37a619cce4dac0734758bb354f707bb29a9
 SHA256: 1e473bef61159c1a3820bd6028f962e16d2b58a8a04c1229d23526080004dd2f
