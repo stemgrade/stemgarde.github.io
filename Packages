@@ -88,7 +88,7 @@ Name: Unidentified
 Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14)
 Architecture: iphoneos-arm
 Description: hacks for tweaks and some ads blockers.
-Depiction: https://stemgrade.github.io/depictions/?p=com.stemgrade.Unidentified
+Depiction: https://stemgrade.github.io/depictions/?p=com.stemgrade.unidentified
 Maintainer: stem grade
 Author: stem grade
 Section: Tweaks
