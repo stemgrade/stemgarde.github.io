@@ -85,7 +85,7 @@ SHA256: e878b1b134008556ef873b942974e3621104d5ce172c3086718e4185f39f7d41
 
 Package: com.stem.unidentified
 Name: Unidentified
-Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14)
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common
 Architecture: iphoneos-arm
 Description: hacks for tweaks and some ads blockers.
 Depiction: https://stemgrade.github.io/depictions/?p=com.stemgrade.unidentified
