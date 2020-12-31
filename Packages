@@ -100,3 +100,20 @@ MD5sum: 132530fd9c1b7e094ba2537528800729
 SHA1: dc3cd50abd1dc9a6ce730535be839919b42e0107
 SHA256: 8e120ca28b9fecd8c83f5d227ebee316b936bc4c099009e07c8d73493931714d
 
+Package: com.stem.network
+Name: carrier
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14)
+Architecture: iphoneos-arm
+Description: chance carrier name to anything you like
+Depiction: https://stemgrade.github.io/depictions/?p=com.stemgrade.carrier
+Maintainer: stem grade
+Author: stem grade
+Section: Tweaks
+Version: 3.0
+Size: 24398 
+Installed-Size: 532
+Filename: ./debs/carrier.deb
+MD5sum: f0789c0f885e72886a870bcdab01d2ef
+SHA1: 5a62b00f5a7f889bc19c8a2e60d7f9e6fdcb5d21
+SHA256: 24d8d2eb0ee207c80893ffe386afaad869fe6abed2ffb5ae07a9dc91e345f330
+

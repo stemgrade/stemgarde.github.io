@@ -1,0 +1,36 @@
+{
+  "minVersion": "0.4",
+  "class": "DepictionTabView",
+  "tintColor": "#EB7D34",
+  "tabs": [
+    {
+      "class": "DepictionStackView",
+      "tabname": "Depiction",
+      "views": [
+        {
+          "class": "DepictionHeaderView",
+          "title": "carrier"
+        },
+		{
+		 "class": "DepictionSubheaderView",
+		 "title": "carrier."
+		},
+		{
+		  "class": "DepictionLabelView",
+		  "text" : "no options to configure"
+		},
+		{
+		  "class": "DepictionSeparatorView",
+		  "spacing": 25
+		},
+		{
+		  "class": "DepictionReviewView",
+		  "title": "Amazing tweak",
+		  "author": "stemgrade",
+		  "markdown":"carrier no options to toggle",
+		  "rating": 4
+        
+      ]
+    }
+  ]
+}
