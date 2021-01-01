@@ -117,3 +117,20 @@ MD5sum: f0789c0f885e72886a870bcdab01d2ef
 SHA1: 5a62b00f5a7f889bc19c8a2e60d7f9e6fdcb5d21
 SHA256: 24d8d2eb0ee207c80893ffe386afaad869fe6abed2ffb5ae07a9dc91e345f330
 
+Package: com.stem.lockscreen
+Name: Lockit
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14)
+Architecture: iphoneos-arm
+Description: chance lockscreen name to anything you like
+Depiction: https://stemgrade.github.io/depictions/?p=com.stemgrade.lockit
+Maintainer: stem grade
+Author: stem grade
+Section: Tweaks
+Version: 3.0
+Size: 24806 
+Installed-Size: 532
+Filename: ./debs/lockscreen.deb
+MD5sum: e059ebf2f8c8a7d5222112e5bd9e62bf
+SHA1: 85701ba1df9ec486566f5ecb738f442575dec8ba
+SHA256: f974fb3a83c78f26a1f43f8198f90d1cf51b2bace61b1c1b334d49ece98203cb
+
