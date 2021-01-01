@@ -134,3 +134,20 @@ MD5sum: e059ebf2f8c8a7d5222112e5bd9e62bf
 SHA1: 85701ba1df9ec486566f5ecb738f442575dec8ba
 SHA256: f974fb3a83c78f26a1f43f8198f90d1cf51b2bace61b1c1b334d49ece98203cb
 
+Package: com.stem.stoprevoke
+Name: Stop Revoke
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common
+Architecture: iphoneos-arm
+Description: stop revoke no need to trust certificate profile to open up the app
+Depiction: https://stemgrade.github.io/depictions/?p=com.stemgrade.stoprevoke
+Maintainer: stem grade
+Author: stem grade
+Section: Tweaks
+Version: 3.0
+Size: 29310 
+Installed-Size: 528
+Filename: ./debs/stoprevoke.deb
+MD5sum: a6f673590d49126f8ac87425525d01ea
+SHA1: 68189969ef2f9fa738a7151d2a1a2c817d9cd6ad
+SHA256: e9ec6fe5695c64ebe7807e6d9dfda91beb0b3ec9d70b067337069f0ee9ff7c9b
+
