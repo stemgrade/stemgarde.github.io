@@ -9,11 +9,11 @@
       "views": [
         {
           "class": "DepictionHeaderView",
-          "title": "youtube"
+          "title": "cercube for youtube"
         },
 		{
 		 "class": "DepictionSubheaderView",
-		 "title": "youtube."
+		 "title": "cercube for youtube."
 		},
 		{
 		  "class": "DepictionLabelView",
@@ -27,7 +27,7 @@
 		  "class": "DepictionReviewView",
 		  "title": "Amazing tweak",
 		  "author": "stemgrade",
-		  "markdown":"youtube no options to toggle",
+		  "markdown":"cercube for youtube no options to toggle",
 		  "rating": 4
         
       ]
