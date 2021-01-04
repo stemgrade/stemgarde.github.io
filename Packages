@@ -151,3 +151,20 @@ MD5sum: a6f673590d49126f8ac87425525d01ea
 SHA1: 68189969ef2f9fa738a7151d2a1a2c817d9cd6ad
 SHA256: e9ec6fe5695c64ebe7807e6d9dfda91beb0b3ec9d70b067337069f0ee9ff7c9b
 
+Package: com.stem.youtube
+Name: cercube for youtube
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common
+Architecture: iphoneos-arm
+Description: no ads and no red banner in cercube
+Depiction: https://stemgrade.github.io/depictions/?p=com.stemgrade.youtube
+Maintainer: stemgrade
+Author: stemgrade
+Section: Tweaks
+Version: 3.0
+Size: 111628  
+Installed-Size: 532
+Filename: ./debs/youtube.deb
+MD5sum: 6a7b6d4f783797ab835aee4845837d7f
+SHA1: 8e119349448c64638f31c08d6209c40a8a0f6932
+SHA256: 781ab543a33b12b6e25955502c8652a6ab72cb907314ac6640bf28b6585fd828
+
