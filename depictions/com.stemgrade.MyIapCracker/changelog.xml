@@ -1,11 +1,11 @@
 <changelog>
 	<changes>
-		<version>3</version>
-		<change>empty</change>
-	</changes>
-	<changes>
 		<version>3.1</version>
 		<change>Fix a tweak was not woring</change>
+	</changes>
+	<changes>
+		<version>3</version>
+		<change></change>
 	</changes>
 	<changes>
 		<version>3.1</version>
