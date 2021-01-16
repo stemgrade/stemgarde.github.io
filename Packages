@@ -173,7 +173,7 @@ Name: MyIapCracker
 Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.15)
 Architecture: iphoneos-arm
 Description: Tweak for apps and systems tweaks
-Depiction: https://stemgrade.github.io/depictions/?p=com.stemgrade.MyIapCracker
+Depiction: https://stemgrade.github.io/depictions/?p=com.stemgrade.myiapcracker
 Maintainer: stem grade
 Author: stem grade
 Section: Tweaks
