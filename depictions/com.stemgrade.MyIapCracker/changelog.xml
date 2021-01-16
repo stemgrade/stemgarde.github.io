@@ -1,11 +1,11 @@
 <changelog>
 	<<changes>
-		<version>3.1</version>
-		<change>fix app tweak not working</change>
-	</changes>
-	<changes>
 		<version>empty</version>
 		<change>empty</change>
+	</changes>
+	<changes>
+		<version>3.1</version>
+		<change>fix app tweak not working</change>
 	</changes>
 	<changes>
 		<version>3</version>
