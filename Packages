@@ -177,11 +177,10 @@ Depiction: https://stemgrade.github.io/depictions/?p=com.stemgrade.MyIapCracker
 Maintainer: stem grade
 Author: stem grade
 Section: Tweaks
-Version: 3
+Version: 3.1
 Size: 391858  
 Installed-Size: 1120
 Filename: ./debs/myiapcracker.deb
-MD5sum: e5f1fdbe545e6043dc024c946a0394e2
-SHA1: 96d502ef0596b60d9c0d4bd482db6c0af47c920d
-SHA256: a79d3514d539c5605cc3301840bf3a22c4f22d2c389712531c858bd26a95140e
-
+MD5sum: 72a387e8f8c28fb074151954d9145b96
+SHA1: b4806e31b8065e86b8baf0cafdcde4716b89c240
+SHA256: bd3f84787b147bbba2807be2f0aa4f5f6ea2d563cccaf64f5e24d8fa53b3f1c6
