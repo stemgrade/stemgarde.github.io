@@ -1,0 +1,31 @@
+<package>
+	<id>com.stem.myiapcracker</id>
+	<name>MyIapCracker</name>
+	<version>3.1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>11.0</miniOS>
+			<maxiOS>14.2.0</maxiOS>
+			<otherVersions>unconfirmed</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<shortDescription></shortDescription>
+	<descriptionlist>
+		<description>Tweak for apps and systems tweaks fix one app tweak was not working</description>
+		<description> - Works on iphone and iPad 13 only not tested on iso 14 so let me know work or not!</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>😎!</description>
+			<image>screenshot.jpg</image>
+		</screenshot>
+	</screenshots> 
+	<changelog>
+		<change>initial release</change>
+	</changelog>
+	<links></links>
+</package>

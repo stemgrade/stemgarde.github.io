@@ -167,3 +167,21 @@ Filename: ./debs/youtube.deb
 MD5sum: 6a7b6d4f783797ab835aee4845837d7f
 SHA1: 8e119349448c64638f31c08d6209c40a8a0f6932
 SHA256: 781ab543a33b12b6e25955502c8652a6ab72cb907314ac6640bf28b6585fd828
+
+Package: com.stem.myiapcracker
+Name: MyIapCracker
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.15)
+Architecture: iphoneos-arm
+Description: Tweak for apps and systems tweaks fix one app tweak was not working
+Depiction: https://stemgrade.github.io/depictions/?p=com.stemgrade.MyIapCracker
+Maintainer: Stem Grade
+Author: Stem Grade
+Section: Tweaks
+Version: 3.1
+Size: 391438  
+Installed-Size: 1120
+Filename: ./debs/myiapcracker3.1.deb
+MD5sum: 245694f9295c8331493e8fa2d69587a5
+SHA1: d5118c0de9aab6093beacc0bdb0ac74361203c19
+SHA256: e23160b14dc2c7fbd05fabb0caf7f79cab1c7fa8e4e671f84edd0d927fe138c6
+
