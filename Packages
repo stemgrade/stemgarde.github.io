@@ -185,3 +185,20 @@ MD5sum: 245694f9295c8331493e8fa2d69587a5
 SHA1: d5118c0de9aab6093beacc0bdb0ac74361203c19
 SHA256: e23160b14dc2c7fbd05fabb0caf7f79cab1c7fa8e4e671f84edd0d927fe138c6
 
+Package: com.stem.zinitevi
+Name: ZiniTevi adblocker
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: no ads and bypass ad limit tracking and block popup banner no need to join group added better privacy.work on Zinitevi 1.3.8 from repo and from TestFlight 1.3.9.
+Depiction: https://stemgrade.github.io/depictions/?p=com.stem.zinitevi
+Maintainer: stemgrade
+Author: stemgrade
+Section: Tweaks
+Version: 1.0
+Size: 71228   
+Installed-Size: 372
+Filename: ./debs/com.stem.zinitevi.deb
+MD5sum: 2c258d1d37f2784974554857ed3c2f8b
+SHA1: a36f15111c8c5a6a9c30c38e64cc970edc25d73d
+SHA256: 0ad51a53676f85c253e0c4145a2ee6f08cb066af20994faf0414074926e6d4eb
+
