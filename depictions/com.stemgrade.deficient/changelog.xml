@@ -1,7 +1,7 @@
 <changelog>
 	<changes>
-		<version>3.0</version>
-		<change>Improved premium popup.hide breaking news.hide auto switch in videos</change>
+		<version>3.1</version>
+		<change>Improved premium popup.added more tweaks added youtube music tweaks also cercube twekas</change>
 	</changes>
 	<changes>
 		<version>empty</version>
@@ -9,6 +9,6 @@
 	</changes>
 	<changes>
 		<version>3.0</version>
-		<change>initial release</change>
+		<change>Improved premium popup.hide breaking news.hide auto switch in videos</change>
 	</changes>
 </changelog>
