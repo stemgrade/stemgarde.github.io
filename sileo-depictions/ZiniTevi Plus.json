@@ -9,11 +9,11 @@
       "views": [
         {
           "class": "DepictionHeaderView",
-          "title": "ZiniTevi adblocker"
+          "title": "ZiniTevi Plus"
         },
 		{
 		 "class": "DepictionSubheaderView",
-		 "title": "ZiniTevi adblocker."
+		 "title": "ZiniTevi Plus."
 		},
 		{
 		  "class": "DepictionLabelView",
@@ -26,8 +26,8 @@
 		{
 		  "class": "DepictionReviewView",
 		  "title": "Amazing tweak",
-		  "author": "stemgrade",
-		  "markdown":"ZiniTevi adblocker no options to toggle",
+		  "author": "stem grade",
+		  "markdown":"ZiniTevi Plus no options to toggle",
 		  "rating": 4
         
       ]
