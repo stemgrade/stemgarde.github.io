@@ -41,13 +41,13 @@ Depiction: https://stemgrade.github.io/depictions/?p=com.stemgrade.deficient
 Maintainer: stem grade
 Author: stem grade
 Section: Tweaks
-Version: 3.4
-Installed-Size: 844
+Version: 3.5
+Installed-Size: 576
 Filename: ./debs/deficient.deb
-Size: 152768
-MD5sum: 2c0cb199da1da4548c985db117562794
-SHA1: 40973aacccd59f61088fe46f4b25b12169ea4f92
-SHA256: fd05ed09df7e9071485ab14fe1a1a965933ab27006ed82cf5169915e0ceae66a
+Size: 93230
+MD5sum: 5df2c3a7dd27b2a954ef4f7221888687
+SHA1: fed6a7b8a4516366ff787a494aaf5e6b807378c7
+SHA256: 447c7db41361a22837e71d3a7a582461cdca7d95f4b9777013ec634b799bbabf
 
 Package: com.stem.musicer
 Name: Musicer

@@ -1,5 +1,9 @@
 <changelog>
         <changes>
+		<version>3.5</version>
+		<change>improvements</change>
+	</changes>
+        <changes>
 		<version>3.4</version>
 		<change>added oled darkmode no age check hide previous and next button hide captions subtitles button</change>
 	</changes>
