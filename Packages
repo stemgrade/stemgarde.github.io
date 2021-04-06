@@ -172,18 +172,18 @@ Package: com.stem.myiapcracker
 Name: MyIapCracker
 Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.15)
 Architecture: iphoneos-arm
-Description: Tweak for apps and systems tweaks fix one app tweak was not working
+Description: Tweaks and hacks for iOS 13 and 14
 Depiction: https://stemgrade.github.io/depictions/?p=com.stemgrade.MyIapCracker
 Maintainer: Stem Grade
 Author: Stem Grade
 Section: Tweaks
-Version: 3.1
-Size: 391438  
-Installed-Size: 1120
-Filename: ./debs/myiapcracker3.1.deb
-MD5sum: 245694f9295c8331493e8fa2d69587a5
-SHA1: d5118c0de9aab6093beacc0bdb0ac74361203c19
-SHA256: e23160b14dc2c7fbd05fabb0caf7f79cab1c7fa8e4e671f84edd0d927fe138c6
+Version: 3.2
+Size: 412288  
+Installed-Size: 1188
+Filename: ./debs/myiapcracker.deb
+MD5sum: 8741d2e577d8adfaf27e1ad8d1c71269
+SHA1: 55009dddad2125d4a4754dc864a60b5495407247
+SHA256: 193734a27546e76bd0dda974642952cee53d1c1a0fba551caf61731ffb595c10
 
 Package: stemgrade.zinitevi
 Name: ZiniTevi Plus
