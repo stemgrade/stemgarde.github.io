@@ -1,5 +1,9 @@
 <changelog>
         <changes>
+		<version>1.4</version>
+		<change>clean up code fix bug</change>
+	</changes>
+        <changes>
 		<version>1.3</version>
 		<change>Remove unwanted code and clean up code</change>
 	</changes>

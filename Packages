@@ -194,10 +194,10 @@ Depiction: https://stemgrade.github.io/depictions/?p=com.stem.zinitevi
 Maintainer: stem grade
 Author: stem grade
 Section: Tweaks
-Version: 1.3
-Size: 98644   
+Version: 1.4
+Size: 98712   
 Installed-Size: 512
 Filename: ./debs/zinitevi.deb
-MD5sum: b85967609af280b23189284244e19501
-SHA1: a0715746d1a7d10753185b1553523e6654347142
-SHA256: 868886d3e55a6de738703897c04cd6efa83c45670790b1d8a01b03ac8c7f7dd1
+MD5sum: 38a4acde5a0fbf380d9e0816c5861d37
+SHA1: cc10508326baee4b89dcf1742c4b6b15a21ff8ba
+SHA256: 2cdd7a4c29214779addbd8036a99e2842b07955acee651c844d30dde66c296d5
