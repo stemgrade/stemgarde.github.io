@@ -177,13 +177,13 @@ Depiction: https://stemgrade.github.io/depictions/?p=com.stemgrade.MyIapCracker
 Maintainer: Stem Grade
 Author: Stem Grade
 Section: Tweaks
-Version: 3.2
-Size: 412288  
+Version: 3.3
+Size: 412112  
 Installed-Size: 1188
 Filename: ./debs/myiapcracker.deb
-MD5sum: 8741d2e577d8adfaf27e1ad8d1c71269
-SHA1: 55009dddad2125d4a4754dc864a60b5495407247
-SHA256: 193734a27546e76bd0dda974642952cee53d1c1a0fba551caf61731ffb595c10
+MD5sum: 69716fef69a310ba3df7b61b8942a8b1
+SHA1: 7c6cbf6f6e74e7fbfff8c89d3800fdb4c2cd1c41
+SHA256: 19fe7937f44e9fca94c61e5e1449c363a0897e5310ca4983eebc41001eb2e5c3
 
 Package: stemgrade.zinitevi
 Name: ZiniTevi Plus

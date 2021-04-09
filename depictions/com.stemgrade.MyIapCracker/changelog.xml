@@ -1,4 +1,8 @@
 <changelog>
+        <changes>
+		<version>3.3</version>
+		<change>improvement</change>
+	</changes>
 	<changes>
 		<version>3.2</version>
 		<change>added more tweaks improvement patcher looks and fix some bugs</change>
