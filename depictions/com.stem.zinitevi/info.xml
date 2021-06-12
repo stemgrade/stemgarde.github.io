@@ -1,11 +1,11 @@
 <package>
 	<id>stemgrade.zinitevi</id>
 	<name>ZiniTevi Plus</name>
-	<version>1.4</version>
+	<version>1.5</version>
 	<compatibility>
 		<firmware>
 			<miniOS>11.0</miniOS>
-			<maxiOS>14.4</maxiOS>
+			<maxiOS>14.5</maxiOS>
 			<otherVersions>unconfirmed</otherVersions>
 			<!--
 			for otherVersions, you can put either unsupported or unconfirmed
