@@ -1,11 +1,11 @@
 <package>
 	<id>com.stem.musicer</id>
 	<name>Musicer</name>
-	<version>3.0</version>
+	<version>3.1</version>
 	<compatibility>
 		<firmware>
 			<miniOS>11.0</miniOS>
-			<maxiOS>14.2.0</maxiOS>
+			<maxiOS>14.5.0</maxiOS>
 			<otherVersions>unconfirmed</otherVersions>
 			<!--
 			for otherVersions, you can put either unsupported or unconfirmed
@@ -15,7 +15,7 @@
 	<dependencies></dependencies>
 	<shortDescription></shortDescription>
 	<descriptionlist>
-		<description>Tweaks For Youtube Music app</description>
+		<description> Musicer is for YouTube Music Tweaker Support for arm64 arm64e only to used the tweak open up youtube music at the top bar click on SG.</description>
 		<description> - Works on iOS and iPadOS 11-14!</description>
 	</descriptionlist>
 	<screenshots>

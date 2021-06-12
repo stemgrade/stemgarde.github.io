@@ -49,22 +49,21 @@ MD5sum: 6ed20c5b863867f84d54844a92f12a2a
 SHA1: b9fa5464c8b2d5249bb73fc4f6592cffabae2d1f
 SHA256: 8f2f64c9eaa7cb44e720efb48750b406dace72e1f1ad3be530c837e0d48fa049
 
-Package: com.stem.musicer
+Package: stemgrade.musicer
 Name: Musicer
-Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14)
 Architecture: iphoneos-arm
-Description: Tweaks For Youtube Music app
+Description: Musicer is for YouTube Music Tweaker Support for arm64 arm64e only to used the tweak open up youtube music at the top bar click on SG.
 Depiction: https://stemgrade.github.io/depictions/?p=com.stemgrade.musicer
-Maintainer: stem grade
-Author: stem grade
+Maintainer: StemGrade
+Author: StemGrade
 Section: Tweaks
-Version: 3.0
-Size: 85516
-Installed-Size: 592
+Version: 3.1
+Size: 29428
+Installed-Size: 204
 Filename: ./debs/musicer.deb
-MD5sum: b525fa131ce615cb49c5ca77f1fc8269
-SHA1: 6b2ac37a619cce4dac0734758bb354f707bb29a9
-SHA256: 1e473bef61159c1a3820bd6028f962e16d2b58a8a04c1229d23526080004dd2f
+MD5sum: a3c67bfcf6ce5e02a1f80bcae0dc3d9b
+SHA1: e957107093446a8b76cf2b241f56a3cbc24760d4
+SHA256: a8e11eedbebe2e2b9c75ddee4e5b7ad3ebff3176bc993d42f71ca7f2ea3e63a9
 
 Package: com.stem.twitter
 Name: Twitee
