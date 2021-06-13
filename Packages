@@ -217,3 +217,20 @@ Installed-Size: 544
 MD5sum: 0cf1490bfa4c503a4cf385855d0f754b
 SHA1: 226413a90bed1fd22dfb1ee4afcab9f945f3683e
 SHA256: 8457d6aab462303c24c90c7c4b981c27ccf3a7bd6e021f84e49e014a17ec3083
+
+Package: com.stem.darkmode
+Name: YTDarker
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common 
+Architecture: iphoneos-arm
+Description: YT Darker mode
+Depiction: https://stemgrade.github.io/depictions/?p=com.stem.darkmode
+Maintainer: stemgrade
+Author: stemgrade
+Section: Tweaks
+Version: 1.0
+Filename: ./debs/YTDarker.deb
+Size: 56934
+Installed-Size: 704
+MD5sum: c3c46fe704a00393cdaaa82a08932805
+SHA1: f2fee5deaa72675814a8d7e8e180a81ed8b5a5da
+SHA256: 91fb1647cc4d0195760e198c6dd1ef35d78dc89755cf6bbab647c2e9db5fd2f9
