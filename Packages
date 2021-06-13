@@ -142,13 +142,13 @@ Depiction: https://stemgrade.github.io/depictions/?p=com.stemgrade.stoprevoke
 Maintainer: stem grade
 Author: stem grade
 Section: Tweaks
-Version: 3.1
-Size: 29316 
-Installed-Size: 528
+Version: 3.2
+Size: 26058 
+Installed-Size: 520
 Filename: ./debs/stoprevoke.deb
-MD5sum: 90a2c060ba9c3f6257d3bc80de050ac5
-SHA1: 0c61415a56ce21975987342ae44c5c8ded93f480
-SHA256: 85c01e01b679deaa45b6a26dcdac928e722234dc772238ccb917677042b7d6ab
+MD5sum: 0c831bf510dc5ae1d13b44610c86520f
+SHA1: cd1f6442187a6ad77db412762b1a995c18d8074d
+SHA256: d2bc025662d7a57d8ccc1e3d969996d258f8ffcb867cdf9f00fb7372cedb22b8
 
 Package: com.stem.youtube
 Name: cercube for youtube
