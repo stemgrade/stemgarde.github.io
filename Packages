@@ -82,23 +82,6 @@ MD5sum: 7af7a6c5f6cfec37822f395ca06a1252
 SHA1: 1ea6705b7f1d12a3facf7674f50f4199de16d62a
 SHA256: e878b1b134008556ef873b942974e3621104d5ce172c3086718e4185f39f7d41
 
-Package: com.stem.unidentified
-Name: Unidentified
-Depends: mobilesubstrate, preferenceloader, ws.hbang.common
-Architecture: iphoneos-arm
-Description: hacks for tweaks and some ads blockers.
-Depiction: https://stemgrade.github.io/depictions/?p=com.stemgrade.Unidentified
-Maintainer: stem grade
-Author: stem grade
-Section: Tweaks
-Version: 3.0
-Size: 373262 
-Installed-Size: 1204
-Filename: ./debs/unidentified.deb
-MD5sum: 132530fd9c1b7e094ba2537528800729
-SHA1: dc3cd50abd1dc9a6ce730535be839919b42e0107
-SHA256: 8e120ca28b9fecd8c83f5d227ebee316b936bc4c099009e07c8d73493931714d
-
 Package: com.stem.network
 Name: carrier
 Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14)
