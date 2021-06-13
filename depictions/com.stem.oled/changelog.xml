@@ -4,8 +4,8 @@
 		<change>empty</change>
 	</changes>
 	<changes>
-		<version>empty</version>
-		<change>empty</change>
+		<version>3.1</version>
+		<change>fix a bug darkmode was not working</change>
 	</changes>
 	<changes>
 		<version>3.0</version>
