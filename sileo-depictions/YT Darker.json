@@ -9,11 +9,11 @@
       "views": [
         {
           "class": "DepictionHeaderView",
-          "title": "ytdarker"
+          "title": "YT Darker"
         },
 		{
 		 "class": "DepictionSubheaderView",
-		 "title": "ytdarker."
+		 "title": "YT Darker."
 		},
 		{
 		  "class": "DepictionLabelView",
@@ -26,8 +26,8 @@
 		{
 		  "class": "DepictionReviewView",
 		  "title": "Amazing tweak",
-		  "author": "stem grade",
-		  "markdown":"ytdarker no options to toggle",
+		  "author": "stemgrade",
+		  "markdown":"YT Darker no options to toggle",
 		  "rating": 4
         
       ]
