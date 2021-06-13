@@ -228,7 +228,7 @@ Maintainer: stemgrade
 Author: stemgrade
 Section: Tweaks
 Version: 1.0
-Filename: ./debs/YT Darker.deb
+Filename: ./debs/YTDarker.deb
 Size: 57238 
 Installed-Size: 704
 MD5sum: 077535a8b0472eac0622d554c7874d50
