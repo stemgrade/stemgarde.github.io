@@ -222,7 +222,7 @@ Package: com.stem.oled
 Name: YT Darker
 Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14)
 Architecture: iphoneos-arm
-Description: YT Darker mode. the original youtube daerk mode suck big time so is this a darker mode for youtube "Support armv6 armv7 armv7s arm64 arm64e".
+Description: YT Darker mode. the original youtube dark mode suck big time so is this a darker mode for youtube "Support armv6 armv7 armv7s arm64 arm64e".
 Depiction: https://stemgrade.github.io/depictions/?p=com.stem.oled
 Maintainer: stem grade
 Author: stem grade
