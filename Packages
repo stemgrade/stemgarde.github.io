@@ -200,3 +200,20 @@ Filename: ./debs/zinitevi.deb
 MD5sum: 268983a4875c83a09a5b1a4791f9a16b
 SHA1: ae4aca68224ce3ca38e5e28985c19086a4abb3b2
 SHA256: 9dcb956a70c922fb7e4bb733d239cd72dc8397581bdc281a2b6017c628cebe22
+
+Package: com.stem.youtube
+Name: CerCube Plus
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common 
+Architecture: iphoneos-arm
+Description: no ads and no red banner in cercuber Support arm64 arm64e
+Depiction: https://stemgrade.github.io/depictions/?p=com.stem.youtube
+Maintainer: StemGrade
+Author: StemGrade
+Section: Tweaks
+Version: 3.1
+Filename: ./debs/cercubeplus.deb
+Size: 109286
+Installed-Size: 544
+MD5sum: 0cf1490bfa4c503a4cf385855d0f754b
+SHA1: 226413a90bed1fd22dfb1ee4afcab9f945f3683e
+SHA256: 8457d6aab462303c24c90c7c4b981c27ccf3a7bd6e021f84e49e014a17ec3083

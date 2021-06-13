@@ -1,0 +1,36 @@
+{
+  "minVersion": "0.4",
+  "class": "DepictionTabView",
+  "tintColor": "#EB7D34",
+  "tabs": [
+    {
+      "class": "DepictionStackView",
+      "tabname": "Depiction",
+      "views": [
+        {
+          "class": "DepictionHeaderView",
+          "title": "CerCube Plus"
+        },
+		{
+		 "class": "DepictionSubheaderView",
+		 "title": "CerCube Plus."
+		},
+		{
+		  "class": "DepictionLabelView",
+		  "text" : "no options to configure"
+		},
+		{
+		  "class": "DepictionSeparatorView",
+		  "spacing": 25
+		},
+		{
+		  "class": "DepictionReviewView",
+		  "title": "Amazing tweak",
+		  "author": "StemGrade",
+		  "markdown":"CerCube Plus no options to toggle",
+		  "rating": 4
+        
+      ]
+    }
+  ]
+}
