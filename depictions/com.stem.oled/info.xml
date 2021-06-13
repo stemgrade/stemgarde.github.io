@@ -1,0 +1,31 @@
+<package>
+	<id>com.stem.oled</id>
+	<name>YT Darker</name>
+	<version>1.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>11.0</miniOS>
+			<maxiOS>14.5</maxiOS>
+			<otherVersions>unconfirmed</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<shortDescription></shortDescription>
+	<descriptionlist>
+		<description> YT Darker mode. the original youtube daerk mode suck big time so is this a darker mode for youtube "Support armv6 armv7 armv7s arm64 arm64e".</description>
+		<description> - Works on iOS and iPadOS 11-14!</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>😎!</description>
+			<image>screenshot.jpg</image>
+		</screenshot>
+	</screenshots>
+	<changelog>
+		<change>initial release</change>
+	</changelog>
+	<links></links>
+</package>
