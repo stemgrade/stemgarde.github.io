@@ -150,23 +150,6 @@ MD5sum: 6a7b6d4f783797ab835aee4845837d7f
 SHA1: 8e119349448c64638f31c08d6209c40a8a0f6932
 SHA256: 781ab543a33b12b6e25955502c8652a6ab72cb907314ac6640bf28b6585fd828
 
-Package: com.stem.myiapcracker
-Name: MyIapCracker
-Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.15)
-Architecture: iphoneos-arm
-Description: Tweaks and hacks for iOS 13 and 14
-Depiction: https://stemgrade.github.io/depictions/?p=com.stemgrade.MyIapCracker
-Maintainer: Stem Grade
-Author: Stem Grade
-Section: Tweaks
-Version: 3.3
-Size: 412112  
-Installed-Size: 1188
-Filename: ./debs/myiapcracker.deb
-MD5sum: 69716fef69a310ba3df7b61b8942a8b1
-SHA1: 7c6cbf6f6e74e7fbfff8c89d3800fdb4c2cd1c41
-SHA256: 19fe7937f44e9fca94c61e5e1449c363a0897e5310ca4983eebc41001eb2e5c3
-
 Package: stemgrade.zinitevi
 Name: ZiniTevi Plus
 Depends: mobilesubstrate
