@@ -227,10 +227,10 @@ Depiction: https://stemgrade.github.io/depictions/?p=com.stem.darkmode
 Maintainer: stemgrade
 Author: stemgrade
 Section: Tweaks
-Version: 1.0
+Version: 3.0
 Filename: ./debs/YTDarker.deb
-Size: 56934
+Size: 56748
 Installed-Size: 704
-MD5sum: c3c46fe704a00393cdaaa82a08932805
-SHA1: f2fee5deaa72675814a8d7e8e180a81ed8b5a5da
-SHA256: 91fb1647cc4d0195760e198c6dd1ef35d78dc89755cf6bbab647c2e9db5fd2f9
+MD5sum: 30ef3c22c565a4cee81086ee6a64bd5b
+SHA1: d416c5feb39eec7d4e0985d3d50b99a5cefb48b1
+SHA256: b9847766bb79c344a8565523f5d93668791b2cba794e160d09c6fe3ae8869742
