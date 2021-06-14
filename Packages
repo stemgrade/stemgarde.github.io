@@ -176,14 +176,13 @@ Depiction: https://stemgrade.github.io/depictions/?p=com.stem.youtube
 Maintainer: StemGrade
 Author: StemGrade
 Section: Tweaks
-Version: 3.1
+Version: 3.2
 Filename: ./debs/cercubeplus.deb
-Size: 109286
+Size: 110456
 Installed-Size: 544
-MD5sum: 0cf1490bfa4c503a4cf385855d0f754b
-SHA1: 226413a90bed1fd22dfb1ee4afcab9f945f3683e
-SHA256: 8457d6aab462303c24c90c7c4b981c27ccf3a7bd6e021f84e49e014a17ec3083
-
+MD5sum: cd31ec3aab3c009aa6b0c308926805b9
+SHA1: 28fe32ed6eafc89654592f5a3460f4f64d8ddb76
+SHA256: 2f88588d3606a374914f304b46559f658df920d3c760e40a89f1e0bb6a3d56b8
 Package: com.stem.oled
 Name: YTDarker
 Depends: mobilesubstrate, preferenceloader, ws.hbang.common 
