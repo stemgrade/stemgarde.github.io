@@ -183,3 +183,20 @@ Installed-Size: 356
 MD5sum: a7ab0c335924a089d3ed90620115ca06
 SHA1: 3ac1d1a093e4c026a401b5345339763e5eec3f7e
 SHA256: e3e277c66d2b42969bcb70af61ac392589763e9b86302c32a736646c3963cb00
+
+Package: com.stem.screenshoot
+Name: Screen Shoot
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.15)
+Architecture: iphoneos-arm
+Description: Hold 2 finger at once on statue bar and swipe down to take screen shoot
+Depiction: https://stemgrade.github.io/depictions/?p=com.stemgrade.screenshoot
+Maintainer: stem grade
+Author: stem grade
+Section: Tweaks
+Version: 1.0
+Filename: ./debs/screenshoot.deb
+Size: 29702
+Installed-Size: 268
+MD5sum: 6523e1199f5a7a3ed6ca5e5790d5366b
+SHA1: acda922d19473f8571ef594c5d84945c453193b7
+SHA256: dff3ffcd8d2f9764d6ad1d502e2910a60fb37bcba0ccc702d223097eedc2eebb
