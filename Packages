@@ -189,7 +189,7 @@ Name: Screen Shoot
 Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.15)
 Architecture: iphoneos-arm
 Description: Hold 2 finger at once on statue bar and swipe down to take screen shoot
-Depiction: https://stemgrade.github.io/depictions/?p=com.stemgrade.screenshoot
+Depiction: https://stemgrade.github.io/depictions/?p=com.stem.screenshoot
 Maintainer: stem grade
 Author: stem grade
 Section: Tweaks
