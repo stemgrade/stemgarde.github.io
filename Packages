@@ -125,13 +125,13 @@ Depiction: https://stemgrade.github.io/depictions/?p=com.stem.zinitevi
 Maintainer: stem grade
 Author: stem grade
 Section: Tweaks
-Version: 1.5
-Size: 43964   
-Installed-Size: 716
+Version: 1.6
+Size: 97836   
+Installed-Size: 568
 Filename: ./debs/zinitevi.deb
-MD5sum: 268983a4875c83a09a5b1a4791f9a16b
-SHA1: ae4aca68224ce3ca38e5e28985c19086a4abb3b2
-SHA256: 9dcb956a70c922fb7e4bb733d239cd72dc8397581bdc281a2b6017c628cebe22
+MD5sum: d5a7383ee5712efd739d28375380ad59
+SHA1: a6b397f57b5a58f8b780425ec8c920265ed3a496
+SHA256: 2aef8be45f1b704ca19976d360129cc247a954a1c44a0a40e77b554022f1ffe7
 
 Package: com.stem.youtube
 Name: CerCube Plus
