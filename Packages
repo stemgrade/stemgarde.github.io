@@ -32,23 +32,6 @@ MD5sum: 339abfee4a499ec2fd5d112e61f0863d
 SHA1: a50b26f85e6be8214f48c08176f4a4fbf9b9533c
 SHA256: d510338ac40d57348aa74e033c7b6dbb86320a4bcffd0f6277e71fb2511d0a45
 
-Package: com.stem.deficient
-Name: Deficient
-Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14)
-Architecture: iphoneos-arm
-Description: Tweaks for Youtube with over 60+ tweaks to choose from updated premium popup added others new tweaks added youtube music added cercube tweaks
-Depiction: https://stemgrade.github.io/depictions/?p=com.stemgrade.deficient
-Maintainer: stem grade
-Author: stem grade
-Section: Tweaks
-Version: 3.6
-Installed-Size: 576
-Filename: ./debs/deficient.deb
-Size: 93290
-MD5sum: 6ed20c5b863867f84d54844a92f12a2a
-SHA1: b9fa5464c8b2d5249bb73fc4f6592cffabae2d1f
-SHA256: 8f2f64c9eaa7cb44e720efb48750b406dace72e1f1ad3be530c837e0d48fa049
-
 Package: stemgrade.musicer
 Name: Musicer
 Architecture: iphoneos-arm
