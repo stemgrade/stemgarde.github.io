@@ -191,7 +191,7 @@ Architecture: iphoneos-arm
 Description: Hold 2 finger at once on statue bar and swipe down to take screen shoot
 Depiction: https://stemgrade.github.io/depictions/?p=com.stem.screenshoot
 Maintainer: stem grade
-Author: stem grade
+Author: Stem Grade
 Section: Tweaks
 Version: 1.0
 Filename: ./debs/screenshoot.deb
