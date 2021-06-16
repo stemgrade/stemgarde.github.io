@@ -1,6 +1,10 @@
 <changelog>
+        <changes>
+		<version>3.3</version>
+		<change>added more darkmode code in</change>
+	</changes>
 	<changes>
-		<version>3.1</version>
+		<version>3.2</version>
 		<change>added more darkmode code in what i miss out</change>
 	</changes>
 	<changes>

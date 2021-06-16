@@ -159,13 +159,13 @@ Depiction: https://stemgrade.github.io/depictions/?p=com.stem.oled
 Maintainer: stem grade
 Author: stem grade
 Section: Tweaks
-Version: 3.2
+Version: 3.3
 Filename: ./debs/YTDarker.deb
-Size: 43240
-Installed-Size: 356
-MD5sum: a7ab0c335924a089d3ed90620115ca06
-SHA1: 3ac1d1a093e4c026a401b5345339763e5eec3f7e
-SHA256: e3e277c66d2b42969bcb70af61ac392589763e9b86302c32a736646c3963cb00
+Size: 44600
+Installed-Size: 360
+MD5sum: 0a186c9add4cfe438d7c07fe7dc64c42
+SHA1: ae2cab75f64bb82ab58ca2b12973db6e0987d60c
+SHA256: eb731f8966d1a82f74b6ad74c077dcc5fedee4bd231f9692d5d27b99444edf3b
 
 Package: com.stem.screenshoot
 Name: Screen Shoot
