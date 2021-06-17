@@ -176,10 +176,10 @@ Depiction: https://stemgrade.github.io/depictions/?p=com.stem.screenshoot
 Maintainer: stem grade
 Author: Stem Grade
 Section: Tweaks
-Version: 1.0
+Version: 6.0
 Filename: ./debs/screenshoot.deb
-Size: 29702
-Installed-Size: 268
-MD5sum: 6523e1199f5a7a3ed6ca5e5790d5366b
-SHA1: acda922d19473f8571ef594c5d84945c453193b7
-SHA256: dff3ffcd8d2f9764d6ad1d502e2910a60fb37bcba0ccc702d223097eedc2eebb
+Size: 31778
+Installed-Size: 316
+MD5sum: 89b8be6ce76fc2a5fecc5fc081f994b6
+SHA1: e9c2a5b496473d80e9923da863b6d85e7f5d3b18
+SHA256: 711da857692de1d7e393b6dcc2746b3ee29c9200a2bc8ddf4fbd230903fef882

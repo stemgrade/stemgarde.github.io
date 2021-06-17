@@ -16,8 +16,8 @@
 		<change></change>
 	</changes>
 	<changes>
-		<version></version>
-		<change></change>
+		<version>6.0</version>
+		<change>chance version because of coco repo is using the same version as my one so i chance it so it will show in my repo if you got coco repo as well.plus now support armv7s arm64 arm64e</change>
 	</changes>
 	<changes>
 		<version>1.0</version>
