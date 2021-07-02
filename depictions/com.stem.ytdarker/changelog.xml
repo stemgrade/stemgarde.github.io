@@ -1,5 +1,9 @@
 <changelog>
         <changes>
+		<version>3.4</version>
+		<change>added more darkmode code in i would say it the best dark out there added libsparkcolourpicker to chance colors and add other tweaks in as well</change>
+	</changes>
+        <changes>
 		<version>3.3</version>
 		<change>added more darkmode code in</change>
 	</changes>
