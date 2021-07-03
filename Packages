@@ -118,20 +118,20 @@ SHA256: d2bc025662d7a57d8ccc1e3d969996d258f8ffcb867cdf9f00fb7372cedb22b8
 
 Package: stemgrade.zinitevi
 Name: ZiniTevi Plus
-Depends: mobilesubstrate
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14)
 Architecture: iphoneos-arm
 Description: no ads
 Depiction: https://stemgrade.github.io/depictions/?p=com.stem.zinitevi
 Maintainer: stem grade
 Author: stem grade
 Section: Tweaks
-Version: 1.6
-Size: 97836   
-Installed-Size: 568
+Version: 1.7
+Size: 98964    
+Installed-Size: 584
 Filename: ./debs/zinitevi.deb
-MD5sum: d5a7383ee5712efd739d28375380ad59
-SHA1: a6b397f57b5a58f8b780425ec8c920265ed3a496
-SHA256: 2aef8be45f1b704ca19976d360129cc247a954a1c44a0a40e77b554022f1ffe7
+MD5sum: ecad4c9cb831cd158ea571515695a864
+SHA1: 2bee4f8d55c8ef305345ec601550905258f2f02f
+SHA256: 29dbcbc8719dac3fbe3350c7f0f70de46a3d0994ec1091a97b42e0fee78b8cf4
 
 Package: com.stem.youtube
 Name: CerCube Plus
