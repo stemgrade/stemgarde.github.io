@@ -50,20 +50,20 @@ SHA256: a8e11eedbebe2e2b9c75ddee4e5b7ad3ebff3176bc993d42f71ca7f2ea3e63a9
 
 Package: com.stem.twitter
 Name: Twitee
-Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14)
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), com.spark.libsparkcolourpicker
 Architecture: iphoneos-arm
 Description: Tweaks For twitter app
 Depiction: https://stemgrade.github.io/depictions/?p=com.stemgrade.Twitee
-Maintainer: stem grade
-Author: stem grade
+Maintainer: stemgrade
+Author: stemgrade
 Section: Tweaks
-Version: 3.0
-Size: 80230
-Installed-Size: 544
+Version: 3.1
+Size: 80838 
+Installed-Size: 552
 Filename: ./debs/twitter.deb
-MD5sum: 7af7a6c5f6cfec37822f395ca06a1252
-SHA1: 1ea6705b7f1d12a3facf7674f50f4199de16d62a
-SHA256: e878b1b134008556ef873b942974e3621104d5ce172c3086718e4185f39f7d41
+MD5sum: 1fa3cd223dc80ab9f5dde71bbb0d7bd8
+SHA1: 275d26b41bf4e01c33297a8f57aaa63dfaef7600
+SHA256: 3373e0e668adbc7e37437288c5f0e271393e288159da5218f392a5636d6e04d0
 
 Package: com.stem.network
 Name: carrier
