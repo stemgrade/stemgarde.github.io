@@ -159,13 +159,13 @@ Depiction: https://stemgrade.github.io/depictions/?p=com.stem.ytdarker
 Maintainer: stemgrade
 Author: stemgrade
 Section: Tweaks
-Version: 3.4
+Version: 3.5
 Filename: ./debs/YTDarker.deb
 Size: 94978
 Installed-Size: 640
-MD5sum: 5329b352910cddcec1df3629ccebc487
-SHA1: 95b9434400fa7b0ad14826fce4b156f9f5326418
-SHA256: e385e24b42289c48b0ff6912844003353e92ddbd50b968019befd57479fc1e11
+MD5sum: a4712a1fc9e3e0f8743a4c4fdb194d5e
+SHA1: 80cd95f1388cfcc4d0f9e4519a432bb33e1bef5f
+SHA256: 4ae00a8481a6b8b323de2a8ddb8101b4c401ee0b021cf4910d9290019e3af108
 
 Package: com.stem.screenshoot
 Name: Screen Shoot
