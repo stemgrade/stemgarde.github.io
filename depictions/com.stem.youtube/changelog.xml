@@ -1,5 +1,9 @@
 <changelog>
         <changes>
+		<version>6.2</version>
+		<change>updated to the later version of cercube 5.2.27 codes and updated better privacy</change>
+	</changes>
+        <changes>
 		<version>6.1</version>
 		<change>updated the later version of cercube 5.2.26 codes</change>
 	</changes>
