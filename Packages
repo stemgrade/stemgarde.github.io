@@ -183,3 +183,21 @@ Installed-Size: 316
 MD5sum: 89b8be6ce76fc2a5fecc5fc081f994b6
 SHA1: e9c2a5b496473d80e9923da863b6d85e7f5d3b18
 SHA256: 711da857692de1d7e393b6dcc2746b3ee29c9200a2bc8ddf4fbd230903fef882
+
+Package: com.stem.deficient
+Name: Deficient
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), com.spark.libsparkcolourpicker
+Architecture: iphoneos-arm
+Description: Tweaks for Youtube with over 90+ tweaks to choose
+Depiction: https://stemgrade.github.io/depictions/?p=com.stemgrade.deficient
+Maintainer: stem grade
+Author: stem grade
+Section: Tweaks
+Version: 3.7
+Installed-Size: 496
+Filename: ./debs/deficient.deb
+Size: 76522
+MD5sum: a66fd64e3902f0cfea5a14576a37ee9b
+SHA1: b066026a86841bb2f4301e2152603c94233c4031
+SHA256: 40ae02ea02f1f88f56f36b670c87adc6e100ddcca141af8663472748bc793b73
+
