@@ -1,5 +1,9 @@
 <changelog>
         <changes>
+		<version>3.8</version>
+		<change>improvements added more tweaks and added credits section from other people tweaks</change>
+	</changes>
+        <changes>
 		<version>3.7</version>
 		<change>improvements added some more tweaks remove youtube music tweaks updated oled darkmode</change>
 	</changes>
