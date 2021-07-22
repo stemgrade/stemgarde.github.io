@@ -193,10 +193,10 @@ Depiction: https://stemgrade.github.io/depictions/?p=com.stemgrade.deficient
 Maintainer: stem grade
 Author: stem grade
 Section: Tweaks
-Version: 4.0
+Version: 4.1
 Installed-Size: 556
 Filename: ./debs/deficient.deb
-Size: 86902
-MD5sum: 00a88cf4d43e63ac81edbbfc690b6afb
-SHA1: 914fcd2e67b192f8d888af5aa14c82fc5ee68f87
-SHA256: 1a12a9e454d798fb237ea91f2a3d9df5ada7292282033cc4811e9ce002ba0259
+Size: 87130 
+MD5sum: fa95c051835f8bbcddadc7112d2c5f3c
+SHA1: 279a9d0504f1ba3407627529527111a76a7bb419
+SHA256: af1c7298132bd7906d137e9b9b790d2c39b16d8a741421fd938ec159e3452b7e
