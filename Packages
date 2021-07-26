@@ -196,7 +196,7 @@ Section: Tweaks
 Version: 4.2
 Installed-Size: 604
 Filename: ./debs/deficient.deb
-Size: 97,820 
+Size: 97820 
 MD5sum: 350163492a3c41a1dfbd7667d649cfe4
 SHA1: 9e6017b1eaf27bb4bd02e6a4022f7f712b41326b
 SHA256: e58b1d0fc6495c5203d9c41f3e56241185e2ad00a5f227af91e3593d9b6d1332
