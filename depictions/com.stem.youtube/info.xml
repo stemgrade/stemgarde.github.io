@@ -1,11 +1,11 @@
 <package>
 	<id>com.stem.youtube</id>
 	<name>CerCube Plus</name>
-	<version>6.3</version>
+	<version>6.4</version>
 	<compatibility>
 		<firmware>
 			<miniOS>11.0</miniOS>
-			<maxiOS>14.6</maxiOS>
+			<maxiOS>14.7</maxiOS>
 			<otherVersions>unconfirmed</otherVersions>
 			<!--
 			for otherVersions, you can put either unsupported or unconfirmed
@@ -15,7 +15,7 @@
 	<dependencies></dependencies>
 	<shortDescription></shortDescription>
 	<descriptionlist>
-		<description> no ads and no red banner in cercuber Support arm64 arm64e</description>
+		<description> no ads and no red banner in cercuber Support arm64 arm64e pop up usernam Stem password Grade</description>
 		<description> - Works on iOS and iPadOS 11-14!</description>
 	</descriptionlist>
 	<screenshots>

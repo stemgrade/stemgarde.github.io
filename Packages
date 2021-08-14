@@ -137,18 +137,18 @@ Package: com.stem.youtube
 Name: CerCube Plus
 Depends: mobilesubstrate, preferenceloader, ws.hbang.common 
 Architecture: iphoneos-arm
-Description: no ads and no red banner in cercuber Support arm64 arm64e
+Description: no ads and no red banner in cercuber Support arm64 arm64e pop up usernam Stem password Grade
 Depiction: https://stemgrade.github.io/depictions/?p=com.stem.youtube
 Maintainer: StemGrade
 Author: StemGrade
 Section: Tweaks
-Version: 6.3
+Version: 6.4
 Filename: ./debs/cercubeplus.deb
-Size: 110818 
-Installed-Size: 544
-MD5sum: 98f4dd34b2d62a459f2f9de579f87e28
-SHA1: 8633e352e6b32134696d58f349bf65227790b7b3
-SHA256: 7d8baa92f6b822faceab038d451b35268600600dba44c9c49368e051151326ad
+Size: 115150 
+Installed-Size: 560
+MD5sum: f0eeba7f6ecf4c19f781ae49b951379d
+SHA1: 4b820ca8ea9c75e0b2e8de10c06a299cb3997506
+SHA256: 33600c67b107d09f311d5b703e3743d565a17ce821920d558a4a271e54954c5e
 
 Package: com.stem.ytdarker
 Name: YTDarker Plus

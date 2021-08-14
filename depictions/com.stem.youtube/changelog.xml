@@ -1,5 +1,9 @@
 <changelog>
         <changes>
+		<version>6.4</version>
+		<change>updated to the later version of cercube 5.3.0 ads codes pop up username Stem password Grade</change>
+	</changes>
+        <changes>
 		<version>6.3</version>
 		<change>updated to the later version of cercube 5.2.28 ads codes</change>
 	</changes>
