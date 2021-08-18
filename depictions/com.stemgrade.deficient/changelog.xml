@@ -1,5 +1,9 @@
 <changelog>
          <changes>
+		<version>4.8</version>
+		<change>fix replay button in minibar fix chance minibar look 1 and 2 fix hide title in minibar fix no progressbar in minibar fix rounded corners minibar</change>
+	</changes>
+         <changes>
 		<version>4.7</version>
 		<change>improvements updated cercube ad blocker 5.3.0</change>
 	</changes>
