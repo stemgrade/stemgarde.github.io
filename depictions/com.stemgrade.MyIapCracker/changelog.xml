@@ -1,0 +1,14 @@
+<changelog>
+        <changes>
+		<version>3.5</version>
+		<change>remove not work app tweaks and update the patcher</change>
+	</changes>
+	<changes>
+		<version>3.1</version>
+		<change>fix one app tweak was not working</change>
+	</changes>
+	<changes>
+		<version>3.0</version>
+		<change>initial release</change>
+	</changes>
+</changelog>
